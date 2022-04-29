@@ -1,4 +1,4 @@
 
 public class First {
-int a, b;
+int a, b,c;
 }
